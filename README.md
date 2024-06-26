@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/abubakar_imran_" target="blank"><img src="https://img.shields.io/twitter/follow/abubakar_imran_?logo=twitter&style=for-the-badge" alt="abubakar_imran_" /></a> </p>
 
-- 🌱 I’m currently learning **NEXTJS**
+- 🌱 I’m currently diving deep into the realms of **Artificial Intelligence** and **Machine Learning**.
 
 - 💬 Ask me about **myself**
 
