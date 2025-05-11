@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abubakar Imran</h1>
-<h3 align="center">I'm a AI and ML Enthusiast and a passionate Full Stack Developer.</h3>
+<h3 align="center">I'm a AI and ML Engineer and a passionate Full Stack Developer.</h3>
 
-- 🔭 **Currently Working On:** I am currently delving deep into the realms of artificial intelligence and machine learning, exploring how these cutting-edge technologies can transform the digital landscape. My journey into AI and ML is driven by a love for technology and a commitment to continuous learning.
+- 🔭 **Currently Working On:** I am currently delving deep into the realms of MLOPS, exploring how these cutting-edge technologies can transform the digital landscape. My journey into AI and ML is driven by a love for technology and a commitment to continuous learning.
 
 - 💬 **Looking To Collaborate On:** I am always on the lookout for exciting collaborations and innovative projects where I can apply my skills and grow alongside like-minded professionals. Let’s connect and create something amazing together!
 
-- 📫 **How To Reach Me:** For inquiries and collaboration opportunities, feel free to reach me via email at abubakarimran553@gmail.com or connect with me on LinkedIn at [linkedin.com/in/abubakar-imran-](https://www.linkedin.com/in/abubakar-imran-/).
+- 📫 **How To Reach Me:** For inquiries and collaboration opportunities, feel free to reach me via email at abubakarimran1043@gmail.com or connect with me on LinkedIn at [linkedin.com/in/abubakar-imran-](https://www.linkedin.com/in/abubakar-imran-/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
