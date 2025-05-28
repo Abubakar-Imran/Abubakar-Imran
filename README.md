@@ -54,8 +54,8 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakar-imran&show_icons=true&locale=en&layout=compact" alt="abubakar-imran" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakar-imran&show_icons=true&locale=en&layout=compact" alt="abubakar-imran" /></p>
 
-<p>&nbsp;<img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=abubakar-imran&show_icons=true&locale=en" alt="abubakar-imran" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abubakar-imran&show_icons=true&locale=en" alt="abubakar-imran" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abubakar-imran&" alt="abubakar-imran" /></p>
